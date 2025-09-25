@@ -1,0 +1,6 @@
+# Ignore koneksi.php di folder functions
+functions/koneksi.php
+
+# Ignore hash_password.php & forgot_password.php di root
+hash_password.php
+forgot_password.php
